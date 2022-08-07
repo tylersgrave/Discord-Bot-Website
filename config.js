@@ -2,13 +2,13 @@ import { BsFacebook, BsYoutube } from "react-icons/bs";
 import { CgCrown } from "react-icons/cg";
 import { FaDiscord } from "react-icons/fa";
 import { MdAddModerator } from "react-icons/md";
-import { SiProbot } from "react-icons/si";
+import { SiLoot } from "react-icons/si";
 import { TbMessage2Code } from "react-icons/tb";
 const config = {
-  name: "ProBot",
+  name: "Loot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.com/oauth2/authorize?client_id=1005577974462038178&scope=bot%20applications.commands&permissions=2146958847",
   //BotInvite Link
   Features: [
     {
@@ -38,8 +38,8 @@ const config = {
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
+  serverCount: 27, //-  - Your
+  memberCount: 1523, //--   - Bot
   executedCommand: 27000, //--  - Stats
   availableCommand: 400, //---   - Here
   //Do not change if you don't know about them
@@ -54,11 +54,11 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/tylersgrave",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
+  discordLink: "https://discord.gg/randomlyhood",
   youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
 };
 
